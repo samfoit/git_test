@@ -1,0 +1,3 @@
+Hello World!
+It's kind of annoying that you have to manually add every single file
+you change using git :(
